@@ -19,7 +19,7 @@ The website Collecting all information about my skills and work from 2020 to 202
 
 # VIEW Website
 
-## "http://www.azizfalah.com"
+## 
 
 ## run in 
 
